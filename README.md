@@ -1,4 +1,4 @@
-# AiDev-Server
+# Project Boiler plate
 
 ## Node Version
 - **Version:** v20.13.1
